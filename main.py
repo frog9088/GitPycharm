@@ -16,5 +16,7 @@ if __name__ == '__main__':
     print_hi('Hello world 3')
 
 
-    print_hi('Hello world 5')
+    print_hi('Hello world 4')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+    print_hi('Hello world 5')
