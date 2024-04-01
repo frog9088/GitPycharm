@@ -13,4 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('Hello world 2')
+    print_hi('Hello world 3')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
